@@ -1,4 +1,4 @@
-package edu.itvo.quotes.data
+package edu.itvo.quotes.data.local
 
 import edu.itvo.quotes.domain.model.QuoteModel
 
